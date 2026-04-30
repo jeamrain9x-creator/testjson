@@ -1,0 +1,131 @@
+{
+  "status": true,
+  "message": "Blog posts fetched successfully",
+  "data": {
+    "featured_post": {
+      "id": 1,
+      "slug": "10-creative-ways-use-random-wheel-classroom",
+      "title": "10 Creative Ways to Use Random Wheel in the Classroom",
+      "excerpt": "Discover fun and interactive ways teachers can use random wheels to engage students and make learning more exciting.",
+      "category": "Featured",
+      "published_at": "2024-05-20",
+      "published_ts": "1777538038",
+      "image_url": "/images/blog/featured-classroom-wheel.webp",
+      "author": {
+        "id": "4312sd",
+        "slug": "team-1",
+        "name": "SpinWheel Team",
+        "avatar_urls": "/authors/team-1.png"
+      },
+      "is_featured": true
+    },
+    "page": 1,
+    "total_pages": 12,
+    "posts_per_page": 6,
+    "posts": [
+      {
+        "id": 2,
+        "slug": "what-to-eat-wheel-decide-seconds",
+        "title": "What to Eat? Use a Wheel to Decide in Seconds",
+        "excerpt": "Tired of asking 'what should I eat?' Let a random wheel decide for you!",
+        "category": "Guides",
+        "published_at": "2024-05-18",
+        "published_ts": "1777365238",
+        "image_url": "/images/blog/food-wheel.webp",
+        "author": {
+          "id": "4312sd",
+          "slug": "team-1",
+          "name": "SpinWheel Team",
+          "avatar_urls": "/authors/team-1.png"
+        },
+        "is_featured": false
+      },
+      {
+        "id": 3,
+        "slug": "team-building-activities-spin-wheel",
+        "title": "7 Fun Team Building Activities with Spin the Wheel",
+        "excerpt": "Strengthen teamwork and boost morale with these creative ideas.",
+        "category": "Use Cases",
+        "published_at": "2024-05-15",
+        "published_ts": "1777106038",
+        "image_url": "/images/blog/team-wheel.webp",
+        "author": {
+          "id": "4312sd",
+          "slug": "team-1",
+          "name": "SpinWheel Team",
+          "avatar_urls": "/authors/team-1.png"
+        },
+        "is_featured": false
+      },
+      {
+        "id": 4,
+        "slug": "how-to-use-prize-wheel-boost-engagement",
+        "title": "How to Use a Prize Wheel to Boost Engagement",
+        "excerpt": "Perfect for giveaways, events, and content creators. Here's how!",
+        "category": "Ideas",
+        "published_at": "2024-05-12",
+        "published_ts": "1776846838",
+        "image_url": "/images/blog/prize-wheel.webp",
+        "author": {
+          "id": "4312sd",
+          "slug": "team-1",
+          "name": "SpinWheel Team",
+          "avatar_urls": "/authors/team-1.png"
+        },
+        "is_featured": false
+      },
+      {
+        "id": 5,
+        "slug": "create-custom-wheel-step-by-step",
+        "title": "How to Create Your Own Custom Wheel (Step-by-Step)",
+        "excerpt": "A simple guide to create a custom wheel that fits your exact needs.",
+        "category": "Tutorials",
+        "published_at": "2024-05-10",
+        "published_ts": "1776674038",
+        "image_url": "/images/blog/custom-wheel.webp",
+        "author": {
+          "id": "4312sd",
+          "slug": "team-1",
+          "name": "SpinWheel Team",
+          "avatar_urls": "/authors/team-1.png"
+        },
+        "is_featured": false
+      },
+      {
+        "id": 6,
+        "slug": "decision-wheels-remote-teams",
+        "title": "Decision Wheels for Remote Teams",
+        "excerpt": "Make decisions faster and reduce overthinking in remote work.",
+        "category": "Use Cases",
+        "published_at": "2024-05-08",
+        "published_ts": "1776501238",
+        "image_url": "/images/blog/remote-team-wheel.webp",
+        "author": {
+          "id": "4312sd",
+          "slug": "team-1",
+          "name": "SpinWheel Team",
+          "avatar_urls": "/authors/team-1.png"
+        },
+        "is_featured": false
+      },
+      {
+        "id": 7,
+        "slug": "random-gift-ideas-wheel",
+        "title": "Random Gift Ideas: Let the Wheel Decide!",
+        "excerpt": "Can't decide what gift to give? Let chance pick the perfect one.",
+        "category": "Ideas",
+        "published_at": "2024-05-05",
+        "published_ts": "1776242038",
+        "image_url": "/images/blog/gift-wheel.webp",
+        "author": {
+          "id": "4312sd",
+          "slug": "team-1",
+          "name": "SpinWheel Team",
+          "avatar_urls": "/authors/team-1.png"
+        },
+        "is_featured": false
+      }
+    ]
+  },
+  "errors": null
+}
