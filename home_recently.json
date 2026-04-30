@@ -2,58 +2,58 @@
   "status": true,
   "message": "Recently wheels fetched successfully",
   "data": [
-  {
-    "id": "a8f3k2",
-    "slug": "link1",
-    "title": "title 1",
-	"author": {
+    {
+      "id": "a8f3k2",
+      "slug": "link1",
+      "title": "title 1",
+      "author": {
         "id": "4312sd",
         "slug": "team-1",
-        "name": "SpinWheel Team",
-	},
-    "image_url": "https://res.cloudinary.com/dqlo6wd7m/image/upload/v1777212488/canvas_uploads/ecjsyjeuyzoteg4bhnx4.png",
-    "published_at": "2026-04-29T08:15:00Z",
-    "published_ts": 1777421700
-  },
-  {
-    "id": "b7m9x4",
-    "slug": "link2",
-    "title": "title 2",
-	"author": {
+        "name": "SpinWheel Team"
+      },
+      "image_url": "https://res.cloudinary.com/dqlo6wd7m/image/upload/v1777212488/canvas_uploads/ecjsyjeuyzoteg4bhnx4.png",
+      "published_at": "2026-04-29T08:15:00Z",
+      "published_ts": 1777421700
+    },
+    {
+      "id": "b7m9x4",
+      "slug": "link2",
+      "title": "title 2",
+      "author": {
         "id": "4312sd123",
         "slug": "author-1",
-        "name": "author 2",
-	},
-    "image_url": "https://res.cloudinary.com/dqlo6wd7m/image/upload/v1777295325/canvas_uploads/yednog9to7cz96chnfdl.png",
-    "published_at": "2026-04-29T10:45:00Z",
-    "published_ts": 1777430700
-  },
-  {
-    "id": "c2p5v8",
-    "slug": "link3",
-    "title": "title 3",
-	"author": {
+        "name": "author 2"
+      },
+      "image_url": "https://res.cloudinary.com/dqlo6wd7m/image/upload/v1777295325/canvas_uploads/yednog9to7cz96chnfdl.png",
+      "published_at": "2026-04-29T10:45:00Z",
+      "published_ts": 1777430700
+    },
+    {
+      "id": "c2p5v8",
+      "slug": "link3",
+      "title": "title 3",
+      "author": {
         "id": "a3",
         "slug": "author-3",
-        "name": "author 3",
-	},
-    "image_url": "https://res.cloudinary.com/dqlo6wd7m/image/upload/v1777295623/canvas_uploads/gpqaf0ca33e8icjv3iz9.png",
-    "published_at": "2026-04-29T13:20:00Z",
-    "published_ts": 1777438800
-  },
-  {
-    "id": "d9q1n6",
-    "slug": "link4",
-    "title": "title 4",
-	"author": {
+        "name": "author 3"
+      },
+      "image_url": "https://res.cloudinary.com/dqlo6wd7m/image/upload/v1777295623/canvas_uploads/gpqaf0ca33e8icjv3iz9.png",
+      "published_at": "2026-04-29T13:20:00Z",
+      "published_ts": 1777438800
+    },
+    {
+      "id": "d9q1n6",
+      "slug": "link4",
+      "title": "title 4",
+      "author": {
         "id": "a4",
         "slug": "author-4",
-        "name": "author 4",
-	},
-    "image_url": "https://res.cloudinary.com/dqlo6wd7m/image/upload/v1777208612/canvas_uploads/ljsaj7nvvfhbqbaru5t8.png",
-    "published_at": "2026-04-29T16:05:00Z",
-    "published_ts": 1777449900
-  }
-],
+        "name": "author 4"
+      },
+      "image_url": "https://res.cloudinary.com/dqlo6wd7m/image/upload/v1777208612/canvas_uploads/ljsaj7nvvfhbqbaru5t8.png",
+      "published_at": "2026-04-29T16:05:00Z",
+      "published_ts": 1777449900
+    }
+  ],
   "errors": null
 }
