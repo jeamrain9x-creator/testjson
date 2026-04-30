@@ -1,0 +1,70 @@
+{
+  "status": true,
+  "message": "Blog posts fetched successfully",
+  "data": [
+    {
+      "id": 1,
+      "slug": "all-categories",
+      "name": "All Categories",
+      "name_display": "💯All Categories",
+      "color": "#6C63FF",
+      "count": 66,
+      "active": true
+    },
+    {
+      "id": 2,
+      "slug": "guides",
+      "name": "Guides",
+      "name_display": "📘Guides",
+      "color": "#6C63FF",
+      "count": 24,
+      "active": false
+    },
+    {
+      "id": 3,
+      "slug": "use-cases",
+      "name": "Use Cases",
+      "name_display": "🎯Use Cases",
+      "color": "#34C759",
+      "count": 18,
+      "active": false
+    },
+    {
+      "id": 4,
+      "slug": "ideas",
+      "name": "Ideas",
+      "name_display": "💡Ideas",
+      "color": "#FF9500",
+      "count": 16,
+      "active": false
+    },
+    {
+      "id": 5,
+      "slug": "tutorials",
+      "name": "Tutorials",
+      "name_display": "📚Tutorials",
+      "color": "#007AFF",
+      "count": 14,
+      "active": false
+    },
+    {
+      "id": 6,
+      "slug": "announcements",
+      "name": "Announcements",
+      "name_display": "📢Announcements",
+      "color": "#4A90E2",
+      "count": 8,
+      "active": false
+    },
+    {
+      "id": 7,
+      "slug": "product-updates",
+      "name": "Product Updates",
+      "name_display": "🆕Product Updates",
+      "color": "#FF2D55",
+      "count": 6,
+      "active": false
+    }
+  ],
+  "errors": null
+}
